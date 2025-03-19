@@ -1,38 +1,43 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&width=435&lines=HELLO%2C+MY+NAME+IS+Glziinx+%3AL)](https://git.io/typing-svg)
 
-<div align="center">
-<h2> Seja, bem vindo!</h2>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lalaio1&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="lalaio1 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalaio1&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/formandodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Formando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
 
- <div align="center">
-  <a href="https://www.youtube.com/c/formandodev/playlists" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/formandodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:formandodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaio1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lalaio1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="margin-top: 20px;">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaio1&hide_border=true&stroke=000000&background=ffffff00&ring=ffffff&fire=ff4500&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffffb3" />
+
+</div>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lalaio1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
